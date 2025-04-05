@@ -4,7 +4,7 @@ We love improvements to our tools! There are a few key ways you can help us impr
 
 ### Submitting Feedback, Requests, and Bugs
 
-Our process for submitting feedback, feature requests, and reporting bugs usually begins by discussion on [our chat](http://wiki.kiwix.org/wiki/Communication#Chat) and, after initial clarification, through [GitHub issues](https://help.github.com/articles/about-issues/). Each project repository generally maintains its own set of issues:
+Our process for submitting feedback, feature rhttps://en.wikipedia.org/w/index.php?title=User%3AAlfazet24&diff=1279417628&oldid=0&variant=enequests, and reporting bugs usually begins by discussion on [our chat](http://wiki.kiwix.org/wiki/Communication#Chat) and, after initial clarification, through [GitHub issues](https://help.github.com/articles/about-issues/). Each project repository generally maintains its own set of issues:
 
         https://github.com/kiwix/<repository-name>/issues
 
